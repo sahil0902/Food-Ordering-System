@@ -1,0 +1,23 @@
+
+
+		======================================================
+			 ONLINE FOOD DELIVERY APP 
+		======================================================
+
+
+			RECEIPT:
+Coustomer: Sahil	 
+LOCATION:		Postcode: 123123		Housenumber:11
+Drink: 7-UP	QTY:1
+
+Item:	(1st)	 Rice  QTY:1
+		Bill: 5.55$
+ Bill After choosing Drink: 7.05
+PAYEMENT METHOD: CASH ON DELEIVERY
+
+
+		======================================================
+			Enjoy A LOVELY MEAL 
+		======================================================
+
+
